@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+apscheduler
+python-dotenv
+pydantic
+pydantic-settings
+requests
+pyotp
+pytz
+pandas
+smartapi-python
+logzero
+websocket
